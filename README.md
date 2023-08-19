@@ -9,5 +9,7 @@ Business objective: Take RSS feed data and based on search terms, classify and s
 
 ## Data 
 
-Example data source - https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=400&Site=945&max=10 
+Example data source 
+- https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=400&Site=945&max=10 
+- https://www.grants.gov/rss.html 
 
